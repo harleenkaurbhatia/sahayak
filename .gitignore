@@ -1,0 +1,10 @@
+*.apk
+.gradle/
+.idea/
+build/
+demo/raw-*.mp4
+demo/sahayak-demo-raw.mp4
+keystore/
+local.properties
+release/
+.DS_Store
